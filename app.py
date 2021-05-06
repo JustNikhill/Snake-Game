@@ -11,7 +11,7 @@ high_score = 0
 # Set up the screen
 wn = turtle.Screen()
 wn.title("Snake Game by nikhil")
-wn.bgcolor("green")
+wn.bgcolor("pink")
 wn.setup(width=600, height=600)
 wn.tracer(0)  # Turns off the screen updates
 
