@@ -1,3 +1,10 @@
+     # LANGUAGE    =  Python 
+     # PROJECT NAME = Snake game 
+     # SAMPLE     =   screenshot is already provided 
+     # DEVELOPER   =  JustNikhill
+
+        
+        
 import turtle     # enables users to create pictures and shapes by providing them with a virtual canvas
 import time       # To import the time  
 import random     # To import food of snak at random places 
