@@ -1,10 +1,11 @@
-import turtle
-import time
-import random
+import turtle     # enables users to create pictures and shapes by providing them with a virtual canvas
+import time       # To import the time  
+import random     # To import food of snak at random places 
 
 delay = 0.1
 
-# Score
+#  for Score
+
 score = 0
 high_score = 0
 
@@ -14,6 +15,8 @@ wn.title("Snake Game by nikhil")
 wn.bgcolor("pink")
 wn.setup(width=600, height=600)
 wn.tracer(0)  # Turns off the screen updates
+
+# SNAKE BODY
 
 # Snake head
 head = turtle.Turtle()
